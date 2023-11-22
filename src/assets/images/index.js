@@ -4,12 +4,14 @@ import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
+import eva from './eva.jpeg'
 
-export {
+export default {
     hero,
     meta,
     shopify,
     starbucks,
     tesla,
-    logo
+    logo,
+    eva
 }

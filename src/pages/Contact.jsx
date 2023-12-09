@@ -39,7 +39,7 @@ const Contact = () => {
       .then(() => {
         setIsLoading(false);
         //todo: mostrar mensagem de sucesso
-        showAlert({show: true, text:"Mensagem enviada com sucesso", type: 'success'})
+        showAlert({show: true, text:"Mensagem enviada com sucesso !", type: 'success'})
         //todo:  esconder o alerta
         setTimeout(() => {
           hideAlert();
@@ -56,6 +56,7 @@ const Contact = () => {
         showAlert({show: true, text:"Eu não recebi a sua mensagem", type: 'danger'})
       });
   };
+
   const handleFocus = () => setCurrentAnimation('walk');
   const handleBlur = () => setCurrentAnimation('idle');
 

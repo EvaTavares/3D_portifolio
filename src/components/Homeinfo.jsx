@@ -20,7 +20,7 @@ const renderContent = {
     <Infobox
       text={
         <p>
-          Ao longo da minha tragetória desenvolvi habilidades de Soft e Hard
+          Ao longo da minha trajetória desenvolvi habilidades de Soft e Hard
           Skills
         </p>
       }

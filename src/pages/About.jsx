@@ -18,7 +18,7 @@ const About = () => {
         </span>
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>Desenvolvedora Web Full Stack brasileira. Especialista em ...</p>
+        <p style={{textAlign: 'justify'}}>Desenvolvedora Web Full Stack brasileira. Especialista em ...</p>
       </div>
 
       <div className="py-10 flex flex-col">

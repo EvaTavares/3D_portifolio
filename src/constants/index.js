@@ -192,43 +192,27 @@ export const projects = [
     link: "https://github.com/EvaTavares/ListaDeRecados",
   },
   {
-    iconUrl: threads,
-    theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
-    description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
-  },
-  {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Api-listaDeRecados",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "Projeto de Api-listaDeRecados - É uma API REST que integra uma aplicação NodeJS através do paradigma de Programação Orientada a Objetos com um banco de dados relacional(PostgreSQL) utilizando TypeORM.",
+    link: "https://github.com/EvaTavares/api-listaDeRecados",
+  },
+  {
+    iconUrl: threads,
+    theme: "btn-back-green",
+    name: "Soft Skills Application ",
+    description:
+      "Esse trabalho é o resultado da Atividade de Feedback do módulo de Orientação Profissional da Growdev. O objetivo dessa atividade era listar softskills como feedback entre os membros da equipe e utilizar os conhecimentos técnicos aprendidos no curso Start Full Stack Web Developer para ilustrar tudo isso. A aplicação foi desenvolvida com ReactJS, possui uma uma página principal que contém um carrosel de cards dinâmico.",
+    link: "https://portfolio-colegas-growdev.vercel.app/",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "Website Iphone em 3D",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
-  },
-  {
-    iconUrl: estate,
-    theme: "btn-back-black",
-    name: "Real-Estate Application",
-    description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
-  },
-  {
-    iconUrl: summiz,
-    theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
-    description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "Website para venda de iPhones feita com animação e renderização 3D no navegador. A imagem do iphone em 3D se descola pela página quando o usuário desce o scroll ou quando aperta os botões que vão para as próximas seções. Na seção TRY ME o usuário pode interagir com a imagem e explorá-la de diferentes ângulos, além de poder aumentar e diminuir a imagem através do zoom.",
+    link: "https://iphone-3d-website-starter-main-five.vercel.app/",
   },
 ];

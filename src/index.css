@@ -183,10 +183,10 @@ body:has(.card[data-color="green"]:hover) {
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
-  object-fit:cover;
+  object-fit: cover;
   border: #2b77e7;
   box-shadow: 0.6vmin 0.6vmin #336cc1, 1vmin 1vmin #0092db, 1vmin 1vmin #0092db,
     0.65vmin 1vmin #0092db, 1vmin 0.65vmin #0092db;
